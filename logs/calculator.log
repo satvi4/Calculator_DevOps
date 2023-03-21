@@ -36,3 +36,27 @@
 2023-03-20 20:43:14.807 [main] INFO  Calc.Calculator - SQUARE ROOT - 4.0 - ANSWER 2.0
 2023-03-20 20:43:14.807 [main] INFO  Calc.Calculator - SQUARE ROOT - 1.0
 2023-03-20 20:43:14.808 [main] INFO  Calc.Calculator - SQUARE ROOT - 1.0 - ANSWER 1.0
+2023-03-21 16:19:04.154 [main] INFO  Calc.Calculator - SQUARE ROOT - 3.0
+2023-03-21 16:19:04.165 [main] INFO  Calc.Calculator - SQUARE ROOT - 3.0 - ANSWER 1.7320508075688772
+2023-03-21 16:19:04.165 [main] INFO  Calc.Calculator - SQUARE ROOT - 4.0
+2023-03-21 16:19:04.165 [main] INFO  Calc.Calculator - SQUARE ROOT - 4.0 - ANSWER 2.0
+2023-03-21 16:19:04.166 [main] INFO  Calc.Calculator - NATURAL LOG - 1.0
+2023-03-21 16:19:04.167 [main] INFO  Calc.Calculator - NATURAL LOG - 1.0 - ANSWER 0.0
+2023-03-21 16:19:04.167 [main] INFO  Calc.Calculator - NATURAL LOG - 1.0
+2023-03-21 16:19:04.168 [main] INFO  Calc.Calculator - NATURAL LOG - 1.0 - ANSWER 0.0
+2023-03-21 16:19:04.170 [main] INFO  Calc.Calculator - POWER - 2.0 RAISED TO 2.0
+2023-03-21 16:19:04.185 [main] INFO  Calc.Calculator - POWER - 2.0 RAISED TO 2.0 - ANSWER 4.0
+2023-03-21 16:19:04.185 [main] INFO  Calc.Calculator - POWER - 2.0 RAISED TO 3.0
+2023-03-21 16:19:04.186 [main] INFO  Calc.Calculator - POWER - 2.0 RAISED TO 3.0 - ANSWER 8.0
+2023-03-21 16:19:04.187 [main] INFO  Calc.Calculator - POWER - 2.0 RAISED TO 3.0
+2023-03-21 16:19:04.187 [main] INFO  Calc.Calculator - POWER - 2.0 RAISED TO 3.0 - ANSWER 8.0
+2023-03-21 16:19:04.187 [main] INFO  Calc.Calculator - POWER - 4.0 RAISED TO 3.0
+2023-03-21 16:19:04.188 [main] INFO  Calc.Calculator - POWER - 4.0 RAISED TO 3.0 - ANSWER 64.0
+2023-03-21 16:19:04.189 [main] INFO  Calc.Calculator - NATURAL LOG - 2.4
+2023-03-21 16:19:04.189 [main] INFO  Calc.Calculator - NATURAL LOG - 2.4 - ANSWER 0.8754687373538999
+2023-03-21 16:19:04.189 [main] INFO  Calc.Calculator - NATURAL LOG - 2.1
+2023-03-21 16:19:04.190 [main] INFO  Calc.Calculator - NATURAL LOG - 2.1 - ANSWER 0.7419373447293773
+2023-03-21 16:19:04.190 [main] INFO  Calc.Calculator - SQUARE ROOT - 4.0
+2023-03-21 16:19:04.191 [main] INFO  Calc.Calculator - SQUARE ROOT - 4.0 - ANSWER 2.0
+2023-03-21 16:19:04.191 [main] INFO  Calc.Calculator - SQUARE ROOT - 1.0
+2023-03-21 16:19:04.192 [main] INFO  Calc.Calculator - SQUARE ROOT - 1.0 - ANSWER 1.0

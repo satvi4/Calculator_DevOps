@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="8" failures="0" name="TestCalc" time="0.425" errors="0" skipped="0">
+<testsuite tests="8" failures="0" name="TestCalc" time="0.594" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2022.3.3"/>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
@@ -63,12 +63,12 @@
     <property name="sun.desktop" value="gnome"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="TestCalc" name="factorialFalsePositive" time="0.399"/>
-  <testcase classname="TestCalc" name="sqrootFalsePositive" time="0.011"/>
+  <testcase classname="TestCalc" name="factorialFalsePositive" time="0.552"/>
+  <testcase classname="TestCalc" name="sqrootFalsePositive" time="0.016"/>
   <testcase classname="TestCalc" name="logTruePositive" time="0.002"/>
-  <testcase classname="TestCalc" name="factorialTruePositive" time="0"/>
-  <testcase classname="TestCalc" name="powerFalsePositive" time="0.009"/>
-  <testcase classname="TestCalc" name="powerTruePositive" time="0.001"/>
-  <testcase classname="TestCalc" name="logFalsePositive" time="0.001"/>
+  <testcase classname="TestCalc" name="factorialTruePositive" time="0.001"/>
+  <testcase classname="TestCalc" name="powerFalsePositive" time="0.017"/>
+  <testcase classname="TestCalc" name="powerTruePositive" time="0.002"/>
+  <testcase classname="TestCalc" name="logFalsePositive" time="0.002"/>
   <testcase classname="TestCalc" name="sqrootTruePositive" time="0.002"/>
 </testsuite>
